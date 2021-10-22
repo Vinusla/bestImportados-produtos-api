@@ -1,1 +1,2 @@
 # best-importados-produtos-api
+Api Rest para realizar operações com produtos produtos, utilizando as seguintes tecnologias: Spring Web, Spring Boot DevTools Sprint jpa, Lombook, Swagger, Hibernate, Mysql
