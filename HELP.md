@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'br.com.bestImportados.bestImportados-produtos-api' is invalid and this project uses 'br.com.bestImportados.bestImportadosprodutosapi' instead.
+* The original package name 'br.com.bestImportados.bestImportados-produtos-api' is invalid and this project uses 'br.com.bestImportados.produtosapi' instead.
 
 # Getting Started
 

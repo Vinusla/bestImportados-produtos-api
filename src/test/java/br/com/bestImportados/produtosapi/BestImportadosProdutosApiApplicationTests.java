@@ -1,4 +1,4 @@
-package br.com.bestImportados.bestImportadosprodutosapi;
+package br.com.bestImportados.produtosapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
