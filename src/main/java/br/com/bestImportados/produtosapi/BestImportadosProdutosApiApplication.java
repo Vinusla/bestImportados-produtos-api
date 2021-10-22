@@ -1,4 +1,4 @@
-package br.com.bestImportados.bestImportadosprodutosapi;
+package br.com.bestImportados.produtosapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
